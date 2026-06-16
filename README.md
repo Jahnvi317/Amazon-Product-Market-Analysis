@@ -33,4 +33,6 @@ Open the file using Power BI Desktop.
 
 Interact: Use the category and rating slicers to see how the charts update in real-time.
 
+Click here to view the live interactive dashboard -[ https://amazon-appuct-market-analysis-fq6oqhaikyewzdymdm7w5h.streamlit.app/ ]
+
 Created by JAHNVI KUMAI | Data Analytics Student
